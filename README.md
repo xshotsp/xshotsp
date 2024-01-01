@@ -1,32 +1,35 @@
-🚀 Desarrollador Full Stack en Formación | Apasionado por la Programación 🚀
+# Juan Esteban Gallego Bedoya - Desarrollador Full Stack 👨‍💻
 
-¡Hola! Soy Juan Esteban Gallego Bedoya, un entusiasta desarrollador Full Stack en formación con un ferviente amor por la programación. Mi objetivo es alcanzar la maestría en el arte del desarrollo y contribuir significativamente al mundo de la tecnología.
+¡Hola, bienvenido a mi perfil de GitHub! Soy Juan Esteban, un apasionado desarrollador Full Stack en formación con un enfoque claro: aprovechar mi amor por la tecnología para crear soluciones innovadoras y contribuir al mundo del desarrollo de software. Con una sólida base en desarrollo web y desktop, así como experiencia práctica en el soporte técnico, busco alcanzar nuevos horizontes en el fascinante mundo de la programación.
 
-🎓 Educación y Formación:
+## ¿Quién Soy?
 
-Ingeniería en Desarrollo de Software en curso
-Bootcamp en Desarrollo de Software Full Stack
-Curso de procesos de soporte técnico (SENA, Medellín, Colombia)
-💼 Experiencia Profesional:
+Actualmente, soy estudiante de Ingeniería en Desarrollo de Software, comprometido con la mejora continua y la adquisición de habilidades técnicas. Mi experiencia laboral como Field Support en Soporte S.A me ha proporcionado una comprensión valiosa de las necesidades del usuario y ha fortalecido mi capacidad para resolver problemas de manera efectiva.
 
-Field Support en Soporte S.A (2022)
-Gestión avanzada de ofimática
-Soporte en sitio y remoto
-Servicio al cliente interno y externo
-Manejo de proveedores y gestión de bodega TI
-Mantenimiento de equipos y generación de informes
-💻 Habilidades Técnicas:
+## ¿Qué Hago?
 
-Desarrollo web y desktop: HTML, CSS, JavaScript, React, Node.js
-Control de versiones: Git, GitHub
-Bases de datos: SQL, MongoDB
-🤝 Competencias Adicionales:
+Mi enfoque va más allá del código. Creo en el desarrollo de software como una herramienta para solucionar problemas del mundo real y mejorar la experiencia del usuario. Desde el diseño hasta la implementación, mi objetivo es crear aplicaciones intuitivas y eficientes.
 
-Trabajo en equipo y colaboración
-Comunicación efectiva y resolución de problemas
-Adaptabilidad y aprendizaje rápido
-🌟 Propuesta de Valor:
-Soy un desarrollador comprometido con una sólida combinación de habilidades técnicas y cualidades interpersonales. Mi enfoque es crear soluciones tecnológicas efectivas y colaborar en entornos dinámicos.
+## ¿A Dónde Me Dirijo?
 
-🚀 Llamado a la Acción:
-Estoy emocionado por colaborar en proyectos emocionantes y seguir aprendiendo. ¡Conéctate conmigo para explorar cómo puedo contribuir al éxito de tu equipo o proyecto! 🚀
+Mi objetivo es convertirme en un experto en desarrollo de software, destacando en el desarrollo Full Stack. Aspiro a contribuir a proyectos innovadores que tengan un impacto significativo. Estoy emocionado por aprender nuevas tecnologías y mantenerme al tanto de las últimas tendencias en el mundo del desarrollo.
+
+## Tecnologías Que Uso
+
+- **Desarrollo Web:** HTML, CSS, JavaScript, React, Node.js
+- **Control de Versiones:** Git, GitHub
+- **Bases de Datos:** SQL, MongoDB
+
+## Contribuciones a la Comunidad
+
+Soy un entusiasta de compartir conocimientos y participar activamente en comunidades en línea. He contribuido con código, he respondido preguntas y me esfuerzo por ser un recurso útil para otros desarrolladores.
+
+## Contacto
+
+- 📱 **Teléfono:** +57 3245520395
+- 📧 **Correo Electrónico:** gallegoj135@gmail.com
+- 💼 https://www.linkedin.com/in/juan-gallego-bedoya-5720a6195/
+  
+
+¡Estoy emocionado por conectarme con otros desarrolladores y explorar oportunidades de colaboración! No dudes en contactarme para discutir ideas, oportunidades de aprendizaje o simplemente charlar sobre tecnología. 🚀
+
