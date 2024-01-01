@@ -17,8 +17,12 @@ Mi objetivo es convertirme en un experto en desarrollo de software, destacando e
 ## Tecnologías Que Uso
 
 - **Desarrollo Web:** HTML, CSS, JavaScript, React, Node.js
-- **Control de Versiones:** Git, GitHub
 - **Bases de Datos:** SQL, MongoDB
+- **Control de Versiones:** Git, GitHub
+- **Lenguajes Adicionales:** Python, Java
+- **Frameworks y Bibliotecas:** Express.js
+- **Herramientas de Desarrollo:** Visual Studio Code, GitKraken
+- **Metodologías de Trabajo:** Scrum, Agile
 
 ## Contribuciones a la Comunidad
 
